@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+statsmodels
+langchain
+langchain-experimental
+langchain-google-genai
+python-dotenv
+tabulate
