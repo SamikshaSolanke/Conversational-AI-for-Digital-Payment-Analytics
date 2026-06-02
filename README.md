@@ -1,5 +1,13 @@
 # Conversational AI for Digital Payment Analytics
 
+
+
+https://github.com/user-attachments/assets/7aadac82-0756-4589-9e47-8396e358b6ad
+
+
+
+
+
 ## Overview
 **Conversational AI for Digital Payment Analytics** is a data-driven full-stack project that turns UPI transaction analytics into a conversational experience. The application enables users to ask questions in natural language and receive automated analysis, visualizations, and predictive insights without writing SQL or Python code.
 
